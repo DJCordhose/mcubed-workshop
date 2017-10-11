@@ -31,7 +31,7 @@ This can get you started: https://blog.keras.io/running-jupyter-notebooks-on-gpu
 ## Agenda
 * 9:30 - 10:00: Introduction to/with Workshop Notebook, Team Building 
 * 10:00 - 11:00: Installation / NNs with Keras 
-* 11:15 - 12:45: Introduction to CNNs
-* 12:45 - 13:45: Lunch Break
-* 13:45 - 15:15: Speed Limit Signs
-* 15:30 - 16:30: Advanced topics 
+* 11:15 - 13:00: Introduction to CNNs
+* 13:00 - 14:00: Lunch Break
+* 14:00 - 15:00: Speed Limit Signs
+* 15:15 - 16:30: Advanced topics 
