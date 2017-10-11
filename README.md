@@ -10,8 +10,8 @@ Expects Python 3
 
 1. Install Anaconda 3 for Python 3.6: https://www.anaconda.com/download/
 1. Install TensorFlow for Anaconda: https://www.tensorflow.org/install/install_linux#InstallingAnaconda
-  * e.g. like ```pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp36-cp36m-linux_x86_64.whl```
-3. Install Keras using pip: ```pip install keras --upgrade```     
+   * e.g. like ```pip install --ignore-installed --upgrade https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.3.0-cp36-cp36m-linux_x86_64.whl```
+1. Install Keras using pip: ```pip install keras --upgrade```     
 
 
 ## Recommended Installation
