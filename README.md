@@ -27,3 +27,11 @@ This can get you started: https://blog.keras.io/running-jupyter-notebooks-on-gpu
 1. This brings you to the Microsoft login page: Either log in with an existing account or create a new one, it is free of charge
 1. After this you get redirected to the notebook which now is hosted by a running server
 1. If you can execute cells as described in the notebook you are all set
+
+## Agenda
+* 9:30 - 10:00: Introduction to/with Workshop Notebook, Team Building 
+* 10:00 - 11:00: Installation / NNs with Keras 
+* 11:15 - 12:45: Introduction to CNNs
+* 12:45 - 13:45: Lunch Break
+* 13:45 - 15:15: Speed Limit Signs
+* 15:30 - 16:30: Advanced topics 
